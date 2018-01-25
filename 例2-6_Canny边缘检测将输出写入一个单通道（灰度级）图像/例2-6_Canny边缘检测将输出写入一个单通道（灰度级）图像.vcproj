@@ -57,7 +57,6 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
-				AdditionalDependencies="opencv_core231d.lib opencv_highgui231d.lib opencv_imgproc231d.lib"
 				GenerateDebugInformation="true"
 				TargetMachine="1"
 			/>

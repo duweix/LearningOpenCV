@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例2-3_视频播放控制", "例2-3_视频播放控制\例2-3_视频播放控制.vcproj", "{69AF32B5-6838-41DD-896D-350D8F8B9333}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例2-2_播放AVI视频", "..\例2-2_播放AVI视频\例2-2_播放AVI视频.vcproj", "{E9D1796E-9848-457F-89C6-7B59DCD6F99B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例2-4_载入一幅图像并进行平滑处理", "例2-4_载入一幅图像并进行平滑处理\例2-4_载入一幅图像并进行平滑处理.vcproj", "{4C30C6E8-DBCC-4664-AEFA-6E3AEFC1E4F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例2-5_cvPryDown创建原图像一半大的相同图像", "例2-5_cvPryDown创建原图像一半大的相同图像\例2-5_cvPryDown创建原图像一半大的相同图像.vcproj", "{8BAB5017-9971-4AC0-B432-ACCD0764244E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "例2-6_Canny边缘检测将输出写入一个单通道（灰度级）图像", "例2-6_Canny边缘检测将输出写入一个单通道（灰度级）图像\例2-6_Canny边缘检测将输出写入一个单通道（灰度级）图像.vcproj", "{7ED1280E-76EF-414B-8CA2-DF7A18B6A59D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69AF32B5-6838-41DD-896D-350D8F8B9333}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69AF32B5-6838-41DD-896D-350D8F8B9333}.Debug|Win32.Build.0 = Debug|Win32
+		{69AF32B5-6838-41DD-896D-350D8F8B9333}.Release|Win32.ActiveCfg = Release|Win32
+		{69AF32B5-6838-41DD-896D-350D8F8B9333}.Release|Win32.Build.0 = Release|Win32
+		{E9D1796E-9848-457F-89C6-7B59DCD6F99B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9D1796E-9848-457F-89C6-7B59DCD6F99B}.Debug|Win32.Build.0 = Debug|Win32
+		{E9D1796E-9848-457F-89C6-7B59DCD6F99B}.Release|Win32.ActiveCfg = Release|Win32
+		{E9D1796E-9848-457F-89C6-7B59DCD6F99B}.Release|Win32.Build.0 = Release|Win32
+		{4C30C6E8-DBCC-4664-AEFA-6E3AEFC1E4F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C30C6E8-DBCC-4664-AEFA-6E3AEFC1E4F4}.Debug|Win32.Build.0 = Debug|Win32
+		{4C30C6E8-DBCC-4664-AEFA-6E3AEFC1E4F4}.Release|Win32.ActiveCfg = Release|Win32
+		{4C30C6E8-DBCC-4664-AEFA-6E3AEFC1E4F4}.Release|Win32.Build.0 = Release|Win32
+		{8BAB5017-9971-4AC0-B432-ACCD0764244E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BAB5017-9971-4AC0-B432-ACCD0764244E}.Debug|Win32.Build.0 = Debug|Win32
+		{8BAB5017-9971-4AC0-B432-ACCD0764244E}.Release|Win32.ActiveCfg = Release|Win32
+		{8BAB5017-9971-4AC0-B432-ACCD0764244E}.Release|Win32.Build.0 = Release|Win32
+		{7ED1280E-76EF-414B-8CA2-DF7A18B6A59D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7ED1280E-76EF-414B-8CA2-DF7A18B6A59D}.Debug|Win32.Build.0 = Debug|Win32
+		{7ED1280E-76EF-414B-8CA2-DF7A18B6A59D}.Release|Win32.ActiveCfg = Release|Win32
+		{7ED1280E-76EF-414B-8CA2-DF7A18B6A59D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
